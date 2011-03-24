@@ -1,0 +1,40 @@
+Skład naszej grupy:
+1. Kleszcz Patryk - SZEF GRUPY
+2. Rutkowski Piotr
+3. Leśnikowski Albert
+4. Całus Bartłomiej
+5. Musiał Marcel
+
+Projekt, który chcemy zrealizować zakłada stworzenie w języku Java
+narzędzia CASE, które będzie wspomagać tworzenie diagramów UML:
+- diagramy klas,
+- diagramy tabel (obiektów Bazy Danych),
+- diagramy przypadków użycia;
+
+##### GŁÓWNE ZAŁOŻENIA PROJEKTU #####
+
+Nasze narzędzie udostępni przyjazny interfejs użytkownika,
+który w przystępny sposób pozwoli na tworzenie, modyfikację itd...,
+wyżej zdefiniowanych diagramów. Nowe, jak i istniejące już projekty 
+będą otwierane w nowych zakładkach. W zależności od typu diagramu
+w menu głównym i menu kontekstowym opcje tam dostępne będą odpowiednio
+dobierane. Do każdego elementu diagramu będzie możliwość dodawania komentarzy.
+
+##### SPECYFIKACJA TWORZENIA DIAGRAMÓW KLAS #####
+
+1. Możliwość dodawania klas do diagramu.
+	1.1. Możliwość ustawiania modyfikatorów klas (static, abstract...),
+	1.2. Możliwość definiowania pól klasy (nazwa, typ, modyfikatory...),
+	1.3. Możliwość definiowania metod klasy (nazwa, typ zwracany,
+		  parametry, ciało...),
+	1.4. Możliwość definiowania związków między klasami (dziedziczenie,
+		  zawieranie...);
+2. Możliwość usuwania klas z diagramu.
+3. Możliwość wygenerowania kodu w językach PHP, C++, Java, C# - DODATKOWO!
+
+##### SPECYFIKACJA TWORZENIA DIAGRAMÓW TABEL BAZ DANYCH #####
+
+
+
+Pozdrawiamy,
+GrupaCASE.
