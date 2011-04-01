@@ -1,0 +1,51 @@
+Nasza grupa projektowa b?dzie sk?ada? si? z osób:\
+1) Go?da Sylwester
+2) Marcin Rogacki
+3) Karolina S?oci?ska
+4) Jakub Detko
+5) Paulina Ku?aga
+6) ?ukasz Ró?alski
+7) Mateusz Banaszkiewcz
+
+Nasz projekt zak?ada stworzenie programu w Javie tworz?cego skrypt sql wype?niaj?cego
+tabel? przyk?adowymi danymi.]
+
+Krotka specyfikacja uzytkownika:
+
+                                                                     
+                                             
+T-ogre = The ogre table filler. Hire ur own ogre to dirty work!
+T-ogre wspomaga administratorów baz danych. Dzieki niemu mo?na tworzy? skrypty sql wype?niaj?ce tablice warto?ciami losowymi. T-ogre mo?e znale?? zastosowanie w zadaniach akademickich lub przy testowaniu baz danych. W szybki i wygodny sposób administrator mo?e wstawi? dane do tabeli/tabel.
+
+Specyfikacja u?ytkownika
+
+1) U?ytkownik okre?la nazwe bazy danych w której znajduje si? tabela oraz nazw? samej tabeli.
+ 
+2) Dodaje nowe kolumny guzikiem 'add column'. Dla ka?dej z nich definiuje:
+
+	i. nazw? - zgodna z t? w bazie danych
+	ii. dane oferowane przez program:
+		a) stringi proste:
+			- nazwiska, imiona ?e?skie i m?skie
+			- towary: AGD/RTV, spo?ywcze, ubrania itp.
+			- Uczelnie
+			- kierunki studiów
+			- przedmioty	
+			- nazwy ulic
+		b) stringi sklejane:
+			- email	(nazwa + @ + domena + .com)
+			- nr tel: (operator + reszta)
+		c) stringi z wagami wa?no?ci
+			- kraje, miasta, województwa (opcjonalnie mo?liwo?? wy??czenia wag)		
+		d) numery pesel 
+			- mo?liwo?? wyboru przedzia?u wiekowego, p?ci i czy ma by? unikalny.
+		e) daty
+		f) warto?ci liczbowe
+			- losowe
+			- sekwencyjne
+	iii) dodatkowe informacje zwi?zane z ka?dym typem danych jak np: przedzia? liczbowy, p?e? w 	 
+	     numerze pesel itp.
+
+ 
+
+
