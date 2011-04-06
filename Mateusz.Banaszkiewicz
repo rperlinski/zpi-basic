@@ -46,6 +46,19 @@ Specyfikacja u?ytkownika
 	iii) dodatkowe informacje zwi?zane z ka?dym typem danych jak np: przedzia? liczbowy, p?e? w 	 
 	     numerze pesel itp.
 
- 
+UWAGI prowadzącego:
+Mogę się zgodzić na taki projekt, wygląda sensownie.
+Proszę określić:
+- model pracy (scentralizowany, z jednym menadżerem, który integruje zmiany wszystkich, inny ...)
+  jeśli model inny niż scentralizowany to proszę określić kto ma jaką funkcję w projekkcie, czyje repozytorium jaką spełnia rolę
+- co każda osoba będzie robić, jaką funkcjonalność wykona,
+  dobrze byłoby używać mechanizmu zgłaszania różnych spraw, które są do zrobienia (Issues), ale też nic na siłę
+- MOŻE warto by zrobić taki, chociaż prowizoryczny projekt/opis tego co tam będzie, jakiś diagram klas, przykład używania programu ...
+
+Pierwsza rzecz do zrobienia to polskie znaki w tym pliku, w sumie nie wiem jakie to było kodowanie, ja używam UTF-8.
+Zresztą, jeśli będą komentarze albo dokumentacja po polsku to warto się na jakieś konkretne zdecydować.
+
+
+
 
 
