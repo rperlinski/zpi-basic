@@ -1,18 +1,61 @@
 
 Moje pomysły na zrobienie czegoś zespołowo:
 
-1) Zrobienie dokumentacji z programu git i używania serwera github w HTML.
+1) Rozproszona biblioteka
+Od pewnego czasu chodzi mi po głowie projekt zrobienia takiej rozproszonej biblioteki,
+w której każda osoba jest jednocześnie wypożyczającym i osobą, która pożycza.
+Oczywiście tak funkcjonująca biblioteka zakłada zaufanie do osób, którym coś pożyczamy.
+Jednak jak spojrzymy na facebook czy naszą klasę to każdy ma wielu znajomoych.
+Na portalach społecznościowych taki pomysł mógł by się udać - taki plugin do facebooka.
+
+System musiałby mieć listę adresów użytkowników czy chociaż listę kontaktów do nich,
+żeby wypożyczający mógł się jakoś umówić na odbiór książki czy filmu ...
+Każdy po zalogowaniu widział by listę rzeczy, które może wypożyczyć udostępnianych
+przez swoich znajomych (książki, filmy, płyty z muzyką, gry planszowe, ...). Każdy miał by też
+listę tych rzeczy, które sam udostępnia do wypożyczenia.
+
+Taki projekt najlepiej funkcjonował by jako strona internetowa ale można też zrobić
+go jako aplikację desktopową, która synchronizuje dane na jakimś serwerze.
+
+2) Gra planszowa z algorytmem komputerowego gracza, gra przez sieć
+To trochę z zakresu tego czym ja się zajmuję naukowo - rozwiązywanie gier.
+Można wybrać sobie jakąś grę [planszową] (szachy, warcaby, go, hex, gomoku, ... każdą dowolną inną,
+może nawet taką, której nikt jeszcze nie implementował a jest ciekawa) i zrobić jej wersję komputerową.
+Mamy tutaj takie rzeczy do zaimplementowania:
+Gra jednosobowa z komputerem
+- interfejs dla gracza,
+- obsługa mechanizmu gry,
+- algorytm gry przez komputer,
+Gra dwu(wielo)osobowa przy jednym komputerze (jeśli możliwe)
+- interfejs dla gracza,
+- obsługa mechanizmu gry,
+Gra dwu(wielo)osobowa przez sieć
+- interfejs dla gracza,
+- obsługa mechanizmu gry,
+- zaprojektowanie i implementacja protokołu gry przez sieć, czyli specyfikacja
+  jakie informacje gracze(serwer gry) wymieniają między sobą
+
+3) Kryptografia i steganografia (ukrywanie informacji w obrazach, dźwięku, ...)
+To tylko taki ogólny dział, w którym jest wiele interesujących miejsc dla informatyki i programowania.
+Można na przykład napisać program, który ukrywa informację w obrazie.
+Taki obrazek przesyłamy przyjacielowi, po pozorem ładnej pogody czy innej nie znaczącej okoliczności
+a w obrazku mamy jakąś bardzo ważną wiadomość ukrytą. Przyjaciej ma ten sam program i może tą wiadomość
+odtworzyć. Steganografię i kryptografię można połączyć.
+
+Z pomysłu 2 i 3 prawdopodobnie można napisać w przyszłości pracę magisterską.
+Pomysły poniżej bez zmian.
+
+4) Zrobienie dokumentacji z programu git i używania serwera github w HTML.
 
 Każdy student będzie miał jakiąś część do opisania. Z tego co tam napiszecie
 będziecie mogli korzystać na kolokwium.
 
-2) Przetłumaczenie jedengo czy dwóch rozdziałów książki ProGit - http://progit.org/book/
+5) Przetłumaczenie jedengo czy dwóch rozdziałów książki ProGit - http://progit.org/book/
 
    Książka ma 9 rozdziałów, z czego 4 już zostały przetłumaczone. Zostało 5, jest co robić.
    Na pewno też taka praca się ludziom przyda, bo łatwiej czytać nam po polsku niż po angielsku.
    Pomysł wydaje się dobry, można będzie się też nauczyć i przećwiczyć zarządzanie projektem w modelu
    scentralizowanym albo jakimś innym, np. z jednym menadżerem.
 
-3) ... więcej na razie nie mam :)
 
 
