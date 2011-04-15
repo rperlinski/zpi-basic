@@ -42,6 +42,10 @@ grupowania powiązanych ze sobą elementów diagramu.
 	1.3. Możliwość ustawiania powiązań między tabelami (klucze obce, typy liczebności)
 2. Możliwość usuwania encji z diagramu.
 3. Możliwość wygenerowania kodu CREATE, INSERT, DELETE dla wybranej encji.
+4. Możliwość dodawania obiektów:
+	4.1. Procedur,
+	4.2. Funkcji,
+	4.3. Wyzwalaczy.
 
 Pozdrawiamy,
 GrupaCASE.
