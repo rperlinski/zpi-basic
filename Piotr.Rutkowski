@@ -57,5 +57,12 @@ grupowania powiązanych ze sobą elementów diagramu.
 2. Możliwość dodawania przypadków użycia.
 	2.1. Możliwość definiowania związków między przypadkami użycia j.w. .
 3. Możliwość grupowania w kontenery.
+
+##### SPECYFIKACJA ŚRODOWISKA #####
+
+1. Dane projektów zapisywane będą do plików XML.
+2. Docelowo obsługiwane będą bazy danych: ORACLE, POSTGRESQL, MySQL, SQL Server.
+3. Docelowo obsługiwane będą języki programowania: JAVA, C#, PHP, C++.
+
 Pozdrawiamy,
 GrupaCASE.
