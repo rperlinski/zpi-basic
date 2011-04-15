@@ -42,6 +42,27 @@ grupowania powiązanych ze sobą elementów diagramu.
 	1.3. Możliwość ustawiania powiązań między tabelami (klucze obce, typy liczebności)
 2. Możliwość usuwania encji z diagramu.
 3. Możliwość wygenerowania kodu CREATE, INSERT, DELETE dla wybranej encji.
+4. Możliwość dodawania obiektów:
+	4.1. Procedur,
+	4.2. Funkcji,
+	4.3. Wyzwalaczy,
+	4.4. Typy własne,
+	4.5. Perspektywy.
+5. !!!DODATKOWO!!! Tworzenie kont użytkowników, uprawnień itd...
+
+##### SPECYFIKACJA TWORZENIA DIAGRAMÓW PRZYPADKÓW UŻYCIA #####
+
+1. Możliwość dodawania aktorów.
+	1.1. Możliwość definiowania związków między aktorami np. generalizacja.
+2. Możliwość dodawania przypadków użycia.
+	2.1. Możliwość definiowania związków między przypadkami użycia j.w. .
+3. Możliwość grupowania w kontenery.
+
+##### SPECYFIKACJA ŚRODOWISKA #####
+
+1. Dane projektów zapisywane będą do plików XML.
+2. Docelowo obsługiwane będą bazy danych: ORACLE, POSTGRESQL, MySQL, SQL Server.
+3. Docelowo obsługiwane będą języki programowania: JAVA, C#, PHP, C++.
 
 Pozdrawiamy,
 GrupaCASE.
