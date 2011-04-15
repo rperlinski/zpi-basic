@@ -45,7 +45,16 @@ grupowania powiązanych ze sobą elementów diagramu.
 4. Możliwość dodawania obiektów:
 	4.1. Procedur,
 	4.2. Funkcji,
-	4.3. Wyzwalaczy.
+	4.3. Wyzwalaczy,
+	4.4. Typy własne.
+5. !!!DODATKOWO!!! Tworzenie kont użytkowników, uprawnień itd...
 
+##### SPECYFIKACJA TWORZENIA DIAGRAMÓW PRZYPADKÓW UŻYCIA #####
+
+1. Możliwość dodawania aktorów.
+	1.1. Możliwość definiowania związków między aktorami np. generalizacja.
+2. Możliwość dodawania przypadków użycia.
+	2.1. Możliwość definiowania związków między przypadkami użycia j.w. .
+3. Możliwość grupowania w kontenery.
 Pozdrawiamy,
 GrupaCASE.
