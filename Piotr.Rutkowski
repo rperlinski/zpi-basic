@@ -18,7 +18,9 @@ który w przystępny sposób pozwoli na tworzenie, modyfikację itd...,
 wyżej zdefiniowanych diagramów. Nowe, jak i istniejące już projekty 
 będą otwierane w nowych zakładkach. W zależności od typu diagramu
 w menu głównym i menu kontekstowym opcje tam dostępne będą odpowiednio
-dobierane. Do każdego elementu diagramu będzie możliwość dodawania komentarzy.
+dobierane. Do każdego elementu diagramu będzie możliwość dodawania komentarzy,
+jak również umożliwiona będzie możliwość kolorowania elementów np. w celu
+grupowania powiązanych ze sobą elementów diagramu.
 
 ##### SPECYFIKACJA TWORZENIA DIAGRAMÓW KLAS #####
 
@@ -34,7 +36,12 @@ dobierane. Do każdego elementu diagramu będzie możliwość dodawania komentar
 
 ##### SPECYFIKACJA TWORZENIA DIAGRAMÓW TABEL BAZ DANYCH #####
 
-
+1. Możliwość dodawania encji do diagramu.
+	1.1. Możliwość definiowania atrybutów oraz ich typów (np. ID INT),
+   1.2. Możliwość definiowania ograniczeń "CONSTRAINT" (np. PRIMARY KEY, UNIQUE, NOT NULL),
+	1.3. Możliwość ustawiania powiązań między tabelami (klucze obce, typy liczebności)
+2. Możliwość usuwania encji z diagramu.
+3. Możliwość wygenerowania kodu CREATE, INSERT, DELETE dla wybranej encji.
 
 Pozdrawiamy,
 GrupaCASE.
