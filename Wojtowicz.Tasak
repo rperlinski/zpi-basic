@@ -1,0 +1,27 @@
+"Gra w statki"
+
+Sklad grupy:
+
+Wojtowicz Tomasz (lider)
+Tasak Mariusz (lider)
+Sowa Tomasz
+Sokolowski Dariusz
+Smorawa Dorota
+Kania Adam
+Jalocha Pawel
+
+Specyfikacja:
+
+Projekt, który chcemy zrealizować zakłada stworzenie w języku java
+gry statki, która umożliwia:
+Gra jednosobowa z komputerem
+- interfejs dla gracza,
+- obsługa mechanizmu gry,
+- algorytm gry przez komputer
+Gra dwuosobowa przez sieć
+- interfejs dla gracza,
+- obsługa mechanizmu gry,
+- zaprojektowanie i implementacja protokołu gry przez sieć, czyli specyfikacja
+  jakie informacje gracze(serwer gry) wymieniają między sobą
+Dodatkowo
+- komunikator dla graczy grających ze sobą (czat)
