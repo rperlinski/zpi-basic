@@ -30,6 +30,16 @@ git push github :testowa
 w katalogu roboczym ale jest ignorowany?
 ----------
 
+git rm --cached sciezka_do_pliku	//przestaje sledzic plik
+
+aby plik byl ignorowany przez system git nalezy stworzyc w katalogu roboczym plik
+
+	.gitignore
+
+a nastepnie dodac do nigo liniki ze sciezkami do pliko ktore maja byc ignorowane.
+
+Plik .gitignore nalezy dodac do sledzenia.
+
 ----------
 
 #### 6. Jak utworzy� na serwerze ga��� o podanej nazwie?
