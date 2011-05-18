@@ -1,46 +1,46 @@
-#### 1. Jak stworzyæ archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
+#### 1. Jak stworzyï¿½ archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
 
 ----------
-#### 2. Jak stworzyæ ga³¹Ÿ z dowolnego zatwierdzenia?
+#### 2. Jak stworzyï¿½ gaï¿½ï¿½ï¿½ z dowolnego zatwierdzenia?
 ----------
 
 ----------
-#### 3. Jak wyœwietliæ zawartoœæ wybranego pliku dla podanego zatwierdzenia?
+#### 3. Jak wyï¿½wietliï¿½ zawartoï¿½ï¿½ wybranego pliku dla podanego zatwierdzenia?
 ----------
 
 ----------
-#### 4. Jak usun¹æ z serwera o aliasie github ga³¹Ÿ testowa?
+#### 4. Jak usunï¿½ï¿½ z serwera o aliasie github gaï¿½ï¿½ï¿½ testowa?
 ----------
 
 ----------
-#### 5. W jaki sposób z pliku œledzonego przez system git zrobiæ plik nieœledzony, który jest
+#### 5. W jaki sposï¿½b z pliku ï¿½ledzonego przez system git zrobiï¿½ plik nieï¿½ledzony, ktï¿½ry jest
 w katalogu roboczym ale jest ignorowany?
 ----------
 
 ----------
-#### 6. Jak utworzyæ na serwerze ga³¹Ÿ o podanej nazwie?
+#### 6. Jak utworzyï¿½ na serwerze gaï¿½ï¿½ï¿½ o podanej nazwie?
 ----------
 
 ----------
-#### 7. Jak ze zdalnej ga³êzi pobranej z serwera stworzyæ lokaln¹ ga³¹Ÿ na której mo¿na pracowaæ?
+#### 7. Jak ze zdalnej gaï¿½ï¿½zi pobranej z serwera stworzyï¿½ lokalnï¿½ gaï¿½ï¿½ï¿½ na ktï¿½rej moï¿½na pracowaï¿½?
 ----------
 
 ----------
-#### 8. Jak wyœwietliæ: zawartoœæ oraz kto jest odpowiedzialny za linie od 10 do 24 w pliku
+#### 8. Jak wyï¿½wietliï¿½: zawartoï¿½ï¿½ oraz kto jest odpowiedzialny za linie od 10 do 24 w pliku
 o podanej nazwie (np. main.java) dla podanego zatwierdzenia?
 ----------
 
 ----------
-#### 9. Jak wyœwietliæ nazwê u¿ytkownika i jego email dla repozytorium, w którym pracujemy?
+#### 9. Jak wyï¿½wietliï¿½ nazwï¿½ uï¿½ytkownika i jego email dla repozytorium, w ktï¿½rym pracujemy?
+----------
+Aby wyÅ›wietliÄ‡ dane uÅ¼ytkownika naleÅ¼y uÅ¼yÄ‡ polecenia : git config --global --list
+----------
+#### 10. Jak wyï¿½wietliï¿½ wszystkie ustawienia dla danego repozytorium?
 ----------
 
 ----------
-#### 10. Jak wyœwietliæ wszystkie ustawienia dla danego repozytorium?
-----------
-
-----------
-#### 11. Jak znaleŸæ w historii zatwierdzeñ podany fragment kodu Ÿród³owego,
-np. „int szukana_zmienna”, pochodz¹cy sprzed konkretnej daty, np. 02.06.2011,
-i dodaæ do innego pliku ca³¹ treœæ funkcji zawieraj¹cej znaleziony kod?
+#### 11. Jak znaleï¿½ï¿½ w historii zatwierdzeï¿½ podany fragment kodu ï¿½rï¿½dï¿½owego,
+np. ï¿½int szukana_zmiennaï¿½, pochodzï¿½cy sprzed konkretnej daty, np. 02.06.2011,
+i dodaï¿½ do innego pliku caï¿½ï¿½ treï¿½ï¿½ funkcji zawierajï¿½cej znaleziony kod?
