@@ -1,4 +1,4 @@
-#### 1. Jak stworzy� archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
+#### 1. Jak stworzyć archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
 
