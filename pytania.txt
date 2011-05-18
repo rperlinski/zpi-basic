@@ -50,7 +50,17 @@ Aby wyświetlić oddzielne nazwę i e-mail : git config user.name ; git config u
 ----------
 
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
-----------
+----------(2 poprawne odpowiedzi)
+Jeśli chcesz sprawdzić bieżące ustawienia, wykonaj polecenie git config
+--list. Git wyświetli pełną konfigurację:
+$ git config --list
+user.name=Scott Chacon
+user.email=schacon@gmail.com
+color.status=auto
+color.branch=auto
+color.interactive=auto
+color.diff=auto
+
 git remote show origin
 Pokazuje więcej informacji o konkretnym zdalnym repozytorium, tutaj origin:
 ----------
