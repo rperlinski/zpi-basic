@@ -3,6 +3,7 @@ zatwierdzenia, np. c34e?
 ----------
 
 ----------
+
 #### 2. Jak stworzy� ga��� z dowolnego zatwierdzenia?
 ----------
 
@@ -42,6 +43,10 @@ Aby wyświetlić dane użytkownika należy użyć polecenia : git config --globa
 git remote show origin
 Pokazuje więcej informacji o konkretnym zdalnym repozytorium, tutaj origin:
 ----------
+
 #### 11. Jak znale�� w historii zatwierdze� podany fragment kodu �r�d�owego,
 np. �int szukana_zmienna�, pochodz�cy sprzed konkretnej daty, np. 02.06.2011,
 i doda� do innego pliku ca�� tre�� funkcji zawieraj�cej znaleziony kod?
+----------
+
+----------
