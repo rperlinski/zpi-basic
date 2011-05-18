@@ -1,7 +1,7 @@
 #### 1. Jak stworzy� archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
-
+git archive -o latest.zip c34e
 ----------
 #### 2. Jak stworzy� ga��� z dowolnego zatwierdzenia?
 ----------
@@ -39,8 +39,13 @@ Aby wyświetlić dane użytkownika należy użyć polecenia : git config --globa
 ----------
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
 ----------
-
+git config --global --list
 ----------
 #### 11. Jak znale�� w historii zatwierdze� podany fragment kodu �r�d�owego,
 np. �int szukana_zmienna�, pochodz�cy sprzed konkretnej daty, np. 02.06.2011,
 i doda� do innego pliku ca�� tre�� funkcji zawieraj�cej znaleziony kod?
+
+
+----------
+
+-----------
