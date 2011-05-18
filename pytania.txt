@@ -4,7 +4,7 @@ zatwierdzenia, np. c34e?
 
 ----------
 
-#### 2. Jak stworzy� ga��� z dowolnego zatwierdzenia?
+#### 2. Jak stworzyć gałąź z dowolnego zatwierdzenia?
 ----------
 
 ----------
