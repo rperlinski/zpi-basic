@@ -1,4 +1,4 @@
-﻿#### 1. Jak stworzy� archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
+﻿#### 1. Jak stworzyć archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
 
@@ -8,6 +8,7 @@ zatwierdzenia, np. c34e?
 ----------
 
 ----------
+
 #### 3. Jak wy�wietli� zawarto�� wybranego pliku dla podanego zatwierdzenia?
 ----------
 git show HEAD^^^:sciezka_do_pliku
@@ -19,32 +20,42 @@ ________________________________________________
 git show sha1_rewizji:sciezka_do_pliku
 
 ----------
+
 #### 4. Jak usun�� z serwera o aliasie github ga��� testowa?
 ----------
-
+git push github :testowa
 ----------
+
 #### 5. W jaki spos�b z pliku �ledzonego przez system git zrobi� plik nie�ledzony, kt�ry jest
 w katalogu roboczym ale jest ignorowany?
 ----------
 
 ----------
+
 #### 6. Jak utworzy� na serwerze ga��� o podanej nazwie?
 ----------
-
+Tworzymy w repozytorium lokalnym galaz poleceniem: git branch nazwa_galezi. 
+Nastepnie przelaczamy sie do nowej galezi poleceniem: git checkout nazwa_galezi. 
+Wykonujemy polecenie: git push alias_repozytorium nazwa_galezi na serwerze.
 ----------
+
 #### 7. Jak ze zdalnej ga��zi pobranej z serwera stworzy� lokaln� ga��� na kt�rej mo�na pracowa�?
 ----------
 
 ----------
+
 #### 8. Jak wy�wietli�: zawarto�� oraz kto jest odpowiedzialny za linie od 10 do 24 w pliku
 o podanej nazwie (np. main.java) dla podanego zatwierdzenia?
 ----------
 
 ----------
+
 #### 9. Jak wy�wietli� nazw� u�ytkownika i jego email dla repozytorium, w kt�rym pracujemy?
 ----------
 Aby wyświetlić dane użytkownika należy użyć polecenia : git config --global --list
+Aby wyświetlić oddzielne nazwę i e-mail : git config user.name ; git config user.email
 ----------
+
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
 ----------
 git remote show origin
