@@ -58,6 +58,7 @@ git checkout -b nasza_galaz origin/galaz_na_serwerze
 #### 8. Jak wy�wietli�: zawarto�� oraz kto jest odpowiedzialny za linie od 10 do 24 w pliku
 o podanej nazwie (np. main.java) dla podanego zatwierdzenia?
 ----------
+git blame -L 10,24 main.java  
 
 ----------
 
