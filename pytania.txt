@@ -46,6 +46,7 @@ o podanej nazwie (np. main.java) dla podanego zatwierdzenia?
 #### 9. Jak wy�wietli� nazw� u�ytkownika i jego email dla repozytorium, w kt�rym pracujemy?
 ----------
 Aby wyświetlić dane użytkownika należy użyć polecenia : git config --global --list
+Aby wyświetlić oddzielne nazwę i e-mail : git config user.name ; git config user.email
 ----------
 
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
