@@ -39,7 +39,8 @@ Aby wyświetlić dane użytkownika należy użyć polecenia : git config --globa
 ----------
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
 ----------
-
+git remote show origin
+Pokazuje więcej informacji o konkretnym zdalnym repozytorium, tutaj origin:
 ----------
 #### 11. Jak znale�� w historii zatwierdze� podany fragment kodu �r�d�owego,
 np. �int szukana_zmienna�, pochodz�cy sprzed konkretnej daty, np. 02.06.2011,
