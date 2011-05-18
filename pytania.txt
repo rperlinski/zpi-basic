@@ -4,7 +4,7 @@ zatwierdzenia, np. c34e?
 
 ----------
 
-#### 2. Jak stworzy� ga��� z dowolnego zatwierdzenia?
+#### 2. Jak stworzyć gałąź z dowolnego zatwierdzenia?
 ----------
 
 ----------
@@ -57,14 +57,24 @@ Aby wyświetlić oddzielne nazwę i e-mail : git config user.name ; git config u
 ----------
 
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
-----------
+----------(2 poprawne odpowiedzi)
+Jeśli chcesz sprawdzić bieżące ustawienia, wykonaj polecenie git config
+--list. Git wyświetli pełną konfigurację:
+$ git config --list
+user.name=Scott Chacon
+user.email=schacon@gmail.com
+color.status=auto
+color.branch=auto
+color.interactive=auto
+color.diff=auto
+
 git remote show origin
 Pokazuje więcej informacji o konkretnym zdalnym repozytorium, tutaj origin:
 ----------
 
-#### 11. Jak znale�� w historii zatwierdze� podany fragment kodu �r�d�owego,
-np. �int szukana_zmienna�, pochodz�cy sprzed konkretnej daty, np. 02.06.2011,
-i doda� do innego pliku ca�� tre�� funkcji zawieraj�cej znaleziony kod?
+#### 11. Jak znaleźć w historii zatwierdzen podany fragment kodu źródłowego,
+np. "int szukana_zmienna", pochodzący sprzed konkretnej daty, np. 02.06.2011,
+i dodać do innego pliku całą treść funkcji zawierającej znaleziony kod?
 ----------
 
 ----------
