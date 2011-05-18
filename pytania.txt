@@ -1,12 +1,12 @@
 ﻿#### 1. Jak stworzyć archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
-
+git archive -o latest.zip c34e
 ----------
 
 #### 2. Jak stworzyć gałąź z dowolnego zatwierdzenia?
 ----------
-
+git checkout -b galaz wersja
 ----------
 
 #### 3. Jak wy�wietli� zawarto�� wybranego pliku dla podanego zatwierdzenia?
