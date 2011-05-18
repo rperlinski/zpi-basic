@@ -8,37 +8,44 @@ zatwierdzenia, np. c34e?
 ----------
 
 ----------
+
 #### 3. Jak wy�wietli� zawarto�� wybranego pliku dla podanego zatwierdzenia?
 ----------
 
 ----------
+
 #### 4. Jak usun�� z serwera o aliasie github ga��� testowa?
 ----------
 git push github :testowa
-
 ----------
+
 #### 5. W jaki spos�b z pliku �ledzonego przez system git zrobi� plik nie�ledzony, kt�ry jest
 w katalogu roboczym ale jest ignorowany?
 ----------
 
 ----------
+
 #### 6. Jak utworzy� na serwerze ga��� o podanej nazwie?
 ----------
 
 ----------
+
 #### 7. Jak ze zdalnej ga��zi pobranej z serwera stworzy� lokaln� ga��� na kt�rej mo�na pracowa�?
 ----------
 
 ----------
+
 #### 8. Jak wy�wietli�: zawarto�� oraz kto jest odpowiedzialny za linie od 10 do 24 w pliku
 o podanej nazwie (np. main.java) dla podanego zatwierdzenia?
 ----------
 
 ----------
+
 #### 9. Jak wy�wietli� nazw� u�ytkownika i jego email dla repozytorium, w kt�rym pracujemy?
 ----------
 Aby wyświetlić dane użytkownika należy użyć polecenia : git config --global --list
 ----------
+
 #### 10. Jak wy�wietli� wszystkie ustawienia dla danego repozytorium?
 ----------
 git remote show origin
