@@ -27,7 +27,7 @@ w katalogu roboczym ale jest ignorowany?
 
 #### 6. Jak utworzy� na serwerze ga��� o podanej nazwie?
 ----------
-
+Tworzymy w repozytorium lokalnym galaz poleceniem: git branch nazwa_galezi. Nastepnie przelaczamy sie do nowej galezi poleceniem: git checkout nazwa_galezi. Wykonujemy polecenie: git push alias_repozytorium nazwa_galezi na serwerze.
 ----------
 
 #### 7. Jak ze zdalnej ga��zi pobranej z serwera stworzy� lokaln� ga��� na kt�rej mo�na pracowa�?
