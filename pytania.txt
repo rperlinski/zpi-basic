@@ -36,7 +36,7 @@ aby plik byl ignorowany przez system git nalezy stworzyc w katalogu roboczym pli
 
 	.gitignore
 
-a nastepnie dodac do nigo liniki ze sciezkami do pliko ktore maja byc ignorowane.
+a nastepnie dodac do nigo liniki ze sciezkami do plikow ktore maja byc ignorowane.
 
 Plik .gitignore nalezy dodac do sledzenia.
 
