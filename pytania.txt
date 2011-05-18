@@ -6,7 +6,7 @@ zatwierdzenia, np. c34e?
 
 #### 2. Jak stworzyć gałąź z dowolnego zatwierdzenia?
 ----------
-
+git checkout -b galaz wersja
 ----------
 
 #### 3. Jak wy�wietli� zawarto�� wybranego pliku dla podanego zatwierdzenia?
