@@ -1,4 +1,4 @@
-#### 1. Jak stworzy� archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
+﻿#### 1. Jak stworzy� archiwum (zip albo tar) ze stanem katalogu roboczego dowolnego
 zatwierdzenia, np. c34e?
 ----------
 
@@ -10,6 +10,13 @@ zatwierdzenia, np. c34e?
 ----------
 #### 3. Jak wy�wietli� zawarto�� wybranego pliku dla podanego zatwierdzenia?
 ----------
+git show HEAD^^^:sciezka_do_pliku
+
+gdzie liczba ^ obrazuje liczbe zatwierdzen wstecz.
+
+________________________________________________
+
+git show sha1_rewizji:sciezka_do_pliku
 
 ----------
 #### 4. Jak usun�� z serwera o aliasie github ga��� testowa?
