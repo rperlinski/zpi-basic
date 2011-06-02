@@ -1,0 +1,7 @@
+W sk³ad zespo³u wchodz¹:
+1) Andrzej Stolarczyk (AndrzejStolarczyk)
+2) Arkadiusz Machnik (qrko)
+
+Na githubie mamy 2 projekty:
+1) Blog w ASP.NET MVC2 https://github.com/AndrzejStolarczyk/MVC
+2) Hosting grafiki (coœ a'la imageshack.us) https://github.com/qrko/myGalleryASP
